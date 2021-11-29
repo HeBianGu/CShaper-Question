@@ -47,8 +47,10 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="表达式树.cs" />
     <Compile Include="利用反射创建实例方法.cs" />
     <Compile Include="动态调用方法.cs" />
     <Compile Include="动态获取特性.cs" />
