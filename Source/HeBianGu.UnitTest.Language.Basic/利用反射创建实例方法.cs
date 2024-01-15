@@ -16,9 +16,6 @@ namespace HeBianGu.UnitTest.Language.Basic
             myClass.Method();
 
         }
-
-
- 
     }
 
     class FMyClass
@@ -26,13 +23,8 @@ namespace HeBianGu.UnitTest.Language.Basic
 
         public void Method()
         {
-
             Debug.WriteLine("执行了方法");
 
         }
-
     }
-
-
-
 }
